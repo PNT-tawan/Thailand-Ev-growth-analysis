@@ -12,7 +12,7 @@
 ## Part 1: ภาพรวมตลาดรถทุกประเภท ปี 2020-2024
 ส่วนนี้แสดงยอดการจดทะเบียนรถใหม่สำหรับรถทุกประเภทในประเทศไทยตั้งแต่ปี 2020-2024 มีจำนวณเท่าไรในแต่ละปีและแบรนด์ไหนมียอดการจดทะเบียนมากที่สุด 5 อันดับแรก
 
-![](https://github.com/sandough/5001-images/blob/main/figure/figure1-1.png)
+![](https://github.com/PNT-tawan/image-for-miniproject-5001/blob/main/Figure%201.1.png)
 
 >Figure 1.1: ยอดรวมการจดทะเบียนรถใหม่ทุกประเภท ตั้งแต่ปี 2020 - 2024
 
@@ -22,19 +22,21 @@
 >Figure 1.2: ยอดรวมรายปีของรถจดทะเบียนใหม่แต่ละประเภท ตั้งแต่ปี 2020 - 2024
 
 
-![](https://github.com/sandough/5001-images/blob/main/figure/figure1-3.png)
+![](https://github.com/PNT-tawan/image-for-miniproject-5001/blob/main/Figure%201.3.png)
 
->Figure 1.3: 5 อันดับแบรนด์รถประเภท รย. 1 ตั้งแต่ปี 2020 - 2024
+>Figure 1.3: ยอดรวมรายปีของรถจดทะเบียนใหม่แต่ละประเภท รย. 1 ตั้งแต่ปี 2020 - 2024
 
+![](https://github.com/PNT-tawan/image-for-miniproject-5001/blob/main/Figure%201.4.png)
+>Figure 1.4: ยอดจดทะเบียนของรถยนต์สูงสุด 5 อันดับแรกของรถทุกประเภท ตั้งแต่ปี 2020 - 2024
 
 ## Part 2: ภาพรวมตลาดรถยนต์ไฟฟ้า ปี 2020-2024
 ในส่วนนี้จะวิเคราะห์ว่าการเติบโตของรถยนต์ไฟฟ้า (EV) ประเภท (รย.1) ในประเทศไทยตั้งแต่ปี 2020-2024 มีอัตราการเติบโตเป็นอย่างไร โดยเทียบจากยอดจดทะเบียนรถยนต์ประเภทเดียวกันที่ไม่ใช่รถไฟฟ้า (Non-EV)
 
-![](https://github.com/sandough/5001-images/blob/main/figure/figure2-1.png)
+![](https://github.com/PNT-tawan/image-for-miniproject-5001/blob/main/Figure%202.1.png)
 
 >Figure 2.1: เปรียบเทียบเทรนด์ของยอดการจดทะเบียนรถใหม่ประเภท รย. 1 ที่เป็นรถยนต์ไฟฟ้าและ รถยนต์ทั่วไป ตั้งแต่ปี 2020 - 2024
 
-![](https://github.com/sandough/5001-images/blob/main/figure/figure2-2.png)
+![](https://github.com/PNT-tawan/image-for-miniproject-5001/blob/main/Figure%202.2.png)
 
 >Figure 2.2: เปรียบเทียบยอดการจดทะเบียนรถใหม่ประเภท รย. 1 แบบรถยนต์ไฟฟ้าและรถยนต์ทั่วไป ตั้งแต่ปี 2020 - 2024
 
@@ -42,11 +44,11 @@
 
 ### Market share
 
-![](https://github.com/sandough/5001-images/blob/main/figure/figure3-1.png)
+![](https://github.com/PNT-tawan/image-for-miniproject-5001/blob/main/Figure%203.1.png)
 
 >Figure 3.1: เปรียบเทียบส่วนแบ่งการตลาดของรถยนต์ประเภท รย. 1 แบบรถยนต์ไฟฟ้าและรถยนต์ทั่วไป ตั้งแต่ปี 2020 - 2024.
 
-![](https://github.com/sandough/5001-images/blob/main/figure/figure3-2.png)
+![](https://github.com/PNT-tawan/image-for-miniproject-5001/blob/main/Figure%203.2.png)
 
 >Figure 3.2: 5 อันดับแบรนด์รถยนต์ไฟฟ้าประเภท รย. 1 ตั้งแต่ปี 2020 - 2024
 
